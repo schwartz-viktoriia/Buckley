@@ -2,6 +2,8 @@ import java.io.FileNotFoundException;
 
 public class MehMain 
 {
+	// didn't work when I tested it - removed class and main method entirely..
+	// try and correct if you want
 	public static void main(String []args) throws FileNotFoundException
 	{
 		java.util.Scanner inputSC = new java.util.Scanner(System.in);
